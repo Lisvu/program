@@ -1,0 +1,14 @@
+release/animationmanager.o
+release/databasemanager.o
+release/gameengine.o
+release/gamescreen.o
+release/main.o
+release/mainwindow.o
+release/shopmanager.o
+release/skillmanager.o
+release/soundmanager.o
+release/usermanager.o
+release/qrc_resource.o
+release/moc_gameengine.o
+release/moc_gamescreen.o
+release/moc_mainwindow.o

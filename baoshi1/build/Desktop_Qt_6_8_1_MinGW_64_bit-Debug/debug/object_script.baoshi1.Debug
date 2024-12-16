@@ -1,0 +1,14 @@
+debug/animationmanager.o
+debug/databasemanager.o
+debug/gameengine.o
+debug/gamescreen.o
+debug/main.o
+debug/mainwindow.o
+debug/shopmanager.o
+debug/skillmanager.o
+debug/soundmanager.o
+debug/usermanager.o
+debug/qrc_resource.o
+debug/moc_gameengine.o
+debug/moc_gamescreen.o
+debug/moc_mainwindow.o
